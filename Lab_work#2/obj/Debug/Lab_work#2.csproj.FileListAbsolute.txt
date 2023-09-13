@@ -1,0 +1,12 @@
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\bin\Debug\Lab_work#2.exe.config
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\bin\Debug\Lab_work#2.exe
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\bin\Debug\Lab_work#2.pdb
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work#2.csproj.AssemblyReference.cache
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work#2.csproj.SuggestedBindingRedirects.cache
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work_2.Form1.resources
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work_2.Form2.resources
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work_2.Properties.Resources.resources
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work#2.csproj.GenerateResource.cache
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work#2.csproj.CoreCompileInputs.cache
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work#2.exe
+C:\Users\12\source\repos\Lab_work#2\Lab_work#2\obj\Debug\Lab_work#2.pdb
